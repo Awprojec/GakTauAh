@@ -2,6 +2,9 @@
 
 
 ![IMG]()
+
+
+
 #install
 
 ~pkg update && upgrade````
