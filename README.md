@@ -1,7 +1,7 @@
 # GAK-TAU-AHH
 
 
-![IMG]()
+![IMG](SS.png)
 
 
 
